@@ -32,5 +32,5 @@ To interact with the file system, use the following input:
 * `ls` - Directory; list the names of all files in the system
 * `in <disk.txt>` - Initialize a disk from the specified text file and create and open the directory file. (Re)initialize an empty disk if no file name is specified, and close all open files in the OFT.
 * `sv <disk.txt>` - Close all files and save the contents of the disk in the specified text file.
-* quit - Quits the program.
+* `quit` - Quits the program.
 
